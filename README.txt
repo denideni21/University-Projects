@@ -1,5 +1,5 @@
 The spaceship is controlled by tilting it left(LEFT ARROW) or right(RIGHT ARROW) and by creating an upthrust 
-from the engine using SPACE_KEY(this decreases fuel).
+from the engine using SPACE_KEY(this decreases fuel). ESCAPE_KEY causes the game to quit.
 
 The ship has one mission: to land on one of the landing pads.
 Landing conditions:
